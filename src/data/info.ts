@@ -13,12 +13,13 @@ export const info = {
 
   experience: [
     {
-      name: " 3D Printing",
+      name: " 3D Printing Service (Remote)",
       location: "Liege, Belgium",
-      startDate: "Apr",
+      startDate: "Apr 2022",
       endDate: "Present",
       description: [
-        "- ",
+        "- Developing screens and UI components for the web application using React and Tailwind.",
+        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
       ],
     },
 
