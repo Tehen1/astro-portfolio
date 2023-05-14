@@ -1,8 +1,8 @@
 export const info = {
   baseUrl: "https://astro-portfolio-uzair.vercel.app",
-  name: "Lambi Antony",
+  name: "Lambi 'Tehen' Antony",
   jobDescription: "Web Developer",
-  about: `I am a junior developer, based in Liege, Belgium. I worked for ten years in the construction industry. I have two children too. 
+  about: `I am a junior developer, based in Liege, Belgium. I worked for ten years in the construction industry. I have two children too, Ex gamers.
   I then took advantage of the covid break to spend a lot of time informing and training myself in a sector that is evolving at a crazy speed! 
   I love creating things, whether it's websites, applications or anything else that is close to a computer. I've been training for more than 2 years, when I discovered crypto, dev teams on blockchain, trading, It's hard to manage to focus only on the code.... 
   The first years anyway!  Competent in front-end development. I have a big experience of 1 year in HTML, CSS, JavaScript, Solidity
@@ -13,9 +13,9 @@ export const info = {
 
   experience: [
     {
-      name: " 3D Printing Service (Remote)",
+      name: " Un application en Kotlin, fitness tracker, avec un systeme de nft ca compte? Si c'est pas terminer!:§ ",
       location: "Liege, Belgium",
-      startDate: "Apr 2022",
+      startDate: "June 2022",
       endDate: "Present",
       description: [
         "- Developing screens and UI components for the web application using React and Tailwind.",
