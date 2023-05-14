@@ -1,60 +1,52 @@
 export const info = {
   baseUrl: "https://astro-portfolio-uzair.vercel.app",
-  name: "Uzair Ahmed",
+  name: "Lambi Antony",
   jobDescription: "Web Developer",
-  about: `I'm a software engineer based in Liege, Belgium.
-   I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
-   I have been working for 3 year, with a demonstrated history of working in the Computer Software industry. Skilled in Front-end Development.
-   I have 3 years of experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, StyledComponent, React JS and Next JS. Hence,
-   I have successfully completed several web projects from scratch. 
-   Yet, I learn continuously and never stop exploring new technologies.
-   So, I have also gained knowledge of Node JS, Express JS, Mongo DB, Python,
-   firebase and React Native with time.
+  about: `I am a junior developer, based in Liege, Belgium. I worked for ten years in the construction industry. I have two children too. 
+  I then took advantage of the covid break to spend a lot of time informing and training myself in a sector that is evolving at a crazy speed! 
+  I love creating things, whether it's websites, applications or anything else that is close to a computer. I've been training for more than 2 years, when I discovered crypto, dev teams on blockchain, trading, It's hard to manage to focus only on the code.... 
+  The first years anyway!  Competent in front-end development. I have a big experience of 1 year in HTML, CSS, JavaScript, Solidity
+  tailwind CSS, React JS, Next JS, and Kotlin. 
+  I've done several web projects from scratch, but I haven't finished the majority of them. However, I am always learning and never stop exploring new technologies.
+  I am currently looking for a job as a front-end developer or solidity & Kotlin. I am available immediately."
   `,
 
   experience: [
     {
-      name: " 3D Printing Service (Remote)",
+      name: " 3D Printing",
       location: "Liege, Belgium",
-      startDate: "Apr 2022",
+      startDate: "Apr",
       endDate: "Present",
       description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
+        "- ",
       ],
     },
 
     {
-      name: "Coupon Approve (Remote)",
-      location: "Amsterdam, North Holland, Netherlands",
+      name: "",
+      location: "",
       startDate: "Nov 2020",
       endDate: "Apr 2022",
       description: [
-        "✓ Developing code in accordance with appropriate design and architectural rules",
-        "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
-        "✓ Help and training of other colleagues",
-        "✓ Others tasks connected to the nature of the job",
-        "✓ Code Improvements and Refactoring ",
-        "✓ Best Practices and Rules Maintainer",
+        "",
       ],
     },
 
     {
-      name: "Interns Pakistan",
+      name: "",
       location: "Pakistan",
       startDate: "Oct 2020",
       endDate: "Nov 2020",
       description: [
-        "An Immersive Internship Program that prepares me for the world's most in-demand career. A six weeks program completely based on learning and challenges.",
-        "The internship track is built by an industry expert that let develop the skills in the areas most important ",
+        " ",
       ],
     },
   ],
 
   education: [
     {
-      name: "Pakistan Institute of Professional Science & Technology (PIPS-TECH)",
-      location: "Karāchi, Sindh, Pakistan",
+      name: "",
+      location: "",
       startDate: "2019",
       endDate: "2022",
       description: [
@@ -62,8 +54,8 @@ export const info = {
       ],
     },
     {
-      name: "Govt. Degree Boys College Buffer Zone",
-      location: "Karāchi, Sindh, Pakistan",
+      name: "",
+      location: "",
       startDate: "2018",
       endDate: "2020",
       description: ["Intermediate, Pre-Engineering"],
