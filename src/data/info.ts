@@ -5,7 +5,7 @@ export const info = {
   about: `I'm a software engineer based in Liege, Belgium.
    I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
    I have been working for 3 year, with a demonstrated history of working in the Computer Software industry. Skilled in Front-end Development.
-   I have 3 years of experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, StyledComponent, React JS and Next JS. Hence,
+   I have 3 years of experience in HTML, CSS, SCSS, JavaScript, Bo otstrap, tailwind CSS, StyledComponent, React JS and Next JS. Hence,
    I have successfully completed several web projects from scratch. 
    Yet, I learn continuously and never stop exploring new technologies.
    So, I have also gained knowledge of Node JS, Express JS, Mongo DB, Python,
