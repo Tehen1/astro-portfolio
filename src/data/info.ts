@@ -20,13 +20,14 @@ export const info = {
   At present, I am actively seeking employment opportunities as a front-end or solidity & Kotlin developer. Rest assured, I am readily available to contribute my skills and expertise."
   `,
 
-  experience: [
+  experience: [ "An application in Kotlin, fitness tracker, with a nft system that counts? If it is not finished!",
     {
-      name: " An application in Kotlin, fitness tracker, with a nft system that counts? If it is not finished!: !: ",
+      name: "cybxxxxx",
       location: "Liege, Belgium",
       startDate: "June 2022",
       endDate: "Present",
       description: [
+
         "Developing screens and UI components for the application",
         "Analyse des besoins et des objectifs",
         "Définir les caractéristiques de la collection NFT Cybxxxxxx",
