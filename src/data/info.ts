@@ -1,6 +1,6 @@
 export const info = {
   baseUrl: "https://13-37.netlify.app",
-  name: "Lambi 'Tehen' Antony",
+  name: "Antony 'Tehen' Lambi",
   jobDescription: "Web Developer",
   about:
   `I am a junior developer, based in Liege, Belgium. I worked for ten years in the construction industry. I have two children too, Ex gamers.
@@ -29,7 +29,7 @@ export const info = {
     },
 
     {
-      name: "",
+      name: "Enthusiastic about blockchain/crypto/challenge and the new AI tools with which we can advance at a more sustained pace and with greater confidence.",
       location: "",
       startDate: " 20xx",
       endDate: " 20xx",
