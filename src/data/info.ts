@@ -3,17 +3,21 @@ export const info = {
   name: "Antony 'Tehen' Lambi",
   jobDescription: "Web Developer",
   about:
-  `I am a junior developer, based in Liege, Belgium. I worked for ten years in the construction industry. I have two children too, Ex gamers.
-   I then took advantage of the covid break to spend a lot of time informing and training myself in a sector that is evolving at a crazy speed! 
-   I love creating things, whether it's websites, applications or anything else that is close to a computer. 
-   I've been training for more than 2 years, when I discovered crypto, dev teams on blockchain, 
-   trading, It's hard to manage to focus only on the code....  The first years anyway!  
-   Competent in front-end development. I have a "great" experience of a big year in HTML, CSS, JavaScript, Solidity
-   tailwind CSS, React JS, Next JS, and Kotlin. 
-   I've done several web projects from scratch, but I haven't finished the majority of them. However, 
-   I am always learning and never stop exploring new technologies
+  `I am a budding developer based in Liege, Belgium. Over the course of ten years, I honed my skills in the construction sector. On top of that, I am a proud parent of two enthusiastic gamers. 
+  
+  Amidst the COVID hiatus, I seized the opportunity to immerse myself in extensive research and training in a rapidly evolving field.
 
-  I am currently looking for a job as a front-end developer or solidity & Kotlin. I am available immediately."
+  My passion lies in crafting innovative creations, whether it be dynamic websites, cutting-edge applications, or anything related to the vast realm of computing. 
+  
+  For more than two years, I have been dedicated to expanding my knowledge, venturing into the realms of cryptocurrencies, blockchain development teams, and even trading. Initially, 
+  
+  focusing solely on coding was a challenge during the early stages. However, I persevered.
+  
+  As a proficient front-end developer, I possess a substantial expertise in HTML, CSS, JavaScript, Solidity, Tailwind CSS, React JS, Next JS, and Kotlin. Although I have embarked on numerous web projects from scratch,
+  
+  I regrettably haven't completed the majority of them. Nonetheless, my thirst for knowledge remains unquenched as I continuously explore and embrace emerging technologies.
+  
+  At present, I am actively seeking employment opportunities as a front-end or solidity & Kotlin developer. Rest assured, I am readily available to contribute my skills and expertise."
   `,
 
   experience: [
@@ -23,8 +27,20 @@ export const info = {
       startDate: "June 2022",
       endDate: "Present",
       description: [
-        "- Developing screens and UI components for the web application using KOTLIN ",
-        "- ",
+        "Developing screens and UI components for the web application using KOTLIN ",
+        "Analyse des besoins et des objectifs",
+        "Définir les caractéristiques de la collection NFT Cybxxxxxx",
+        "Déterminer le public cible",
+        "Évaluer les coûts associés",
+        "Conception du design",
+        "Concevoir les modèles de CyborgCryptoPunk",
+       "Créer une identité visuelle pour la collection NFT Cybxxxxxxx",
+       "Déterminer les couleurs et les textures pour les modèles",
+       "Déterminer les caractéristiques des modèles",
+        "Programmer les contrats intelligents pour les NFT",
+       "Déployer les contrats intelligents sur la blockchain",
+       "Intégrer les modèles de CyborgCryptoPunk avec les contrats intelligents", 
+        "Test et lancement",
       ],
     },
 
