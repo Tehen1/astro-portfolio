@@ -1,5 +1,5 @@
 export const info = {
-  baseUrl: "https://astro-portfolio-uzair.vercel.app",
+  baseUrl: "https://13-37.netlify.app",
   name: "Lambi 'Tehen' Antony",
   jobDescription: "Web Developer",
   about: `I am a junior developer, based in Liege, Belgium. I worked for ten years in the construction industry. I have two children too, Ex gamers.
@@ -84,7 +84,7 @@ export const info = {
       isFeatured: true,
       thumbnail: "/assets/images/astro-portfolio.png",
       githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+      liveUrl: "https://13-37.netlify.app",
     },
   ],
 };
