@@ -3,21 +3,15 @@ export const info = {
   name: "Antony 'Tehen' Lambi",
   jobDescription: "Web Developer",
   about:
-  `I am a budding developer based in Liege, Belgium. Over the course of ten years, I honed my skills in the construction sector. On top of that, I am a proud parent of two enthusiastic gamers. 
-  
-  Amidst the COVID hiatus, I seized the opportunity to immerse myself in extensive research and training in a rapidly evolving field.
-
-  My passion lies in crafting innovative creations, whether it be dynamic websites, cutting-edge applications, or anything related to the vast realm of computing. 
-  
-  For more than two years, I have been dedicated to expanding my knowledge, venturing into the realms of cryptocurrencies, blockchain development teams, and even trading. Initially, 
-  
-  focusing solely on coding was a challenge during the early stages. However, I persevered.
-  
-  As a proficient front-end developer, I possess a substantial expertise in HTML, CSS, JavaScript, Solidity, Tailwind CSS, React JS, Next JS, and Kotlin. Although I have embarked on numerous web projects from scratch,
-  
-  I regrettably haven't completed the majority of them. Nonetheless, my thirst for knowledge remains unquenched as I continuously explore and embrace emerging technologies.
-  
-  At present, I am actively seeking employment opportunities as a front-end or solidity & Kotlin developer. Rest assured, I am readily available to contribute my skills and expertise."
+  `I am an aspiring developer based in Liege, Belgium. For the past ten years I have been honing my skills in the construction industry. 
+  In addition, I am the proud parent of two enthusiastic children. 
+  Former geek on too many online games. 
+  During the break from COVID, I took the opportunity to dive into extensive research and training in the rapidly evolving field of blockchain(s). My passion is designing innovative creations, whether they are dynamic websites, 
+  cutting-edge applications or anything else that touches the vast field of computer science. For over two years, I have been dedicated to expanding my knowledge, venturing into the fields of crypto-currencies, blockchain development teams and even trading. 
+  Initially, focusing solely on coding was a challenge in the early stages. 
+  However, I persevered. As a skilled front-end developer, I have substantial expertise in HTML, CSS, JavaScript, Solidity, Tailwind CSS, React JS, Next JS and Kotlin. Although I've started many web projects from scratch, I unfortunately haven't completed the majority of them. 
+  Nevertheless, my thirst for knowledge remains intact as I continually explore and adopt emerging technologies. 
+  Currently, I am actively looking for job opportunities as a front-end or solidity & Kotlin developer. Rest assured that I am fully available to contribute my skills and expertise.",
   `,
 
   experience: [ "An application in Kotlin, fitness tracker, with a nft system that counts? If it is not finished!",
