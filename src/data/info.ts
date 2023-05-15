@@ -40,11 +40,12 @@ export const info = {
     },
 
     {
-      name: "Enthusiastic about blockchain/crypto/challenge and the new AI tools with which we can advance at a more sustained pace and with greater confidence.",
-      location: "",
-      startDate: " 20xx",
-      endDate: " 20xx",
-      description: [" I never knew how to listen to teachers, sit behind a bench and listen. I waited until I was 20 years old to leave school and pursue my apprenticeship in sales.",
+      name:  "Enthusiastic about blockchain/crypto/challenge and the new AI tools with which we can advance at a more sustained pace and with greater confidence.",
+      location:  "Liege, Belgium", 
+      startDate:  " 20xx",
+      endDate:  " 20xx",
+      description: [" I never knew how to listen to teachers, sit behind a bench and listen.",
+                  "I waited until I was 20 years old to leave school and pursue my apprenticeship in sales.",
                   "Then I started my early years in construction, painting, plastering, etc. ....."
       ],
     },
