@@ -86,10 +86,10 @@ export const info = {
       description: [""],
     },
     {
-      name: "s",
+      name: "",
       location: "",
-      startDate: "20",
-      endDate: "2",
+      startDate: "",
+      endDate: "",
       description: [""],
     },
   ],
