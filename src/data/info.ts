@@ -13,21 +13,21 @@ export const info = {
 
   experience: [
     {
-      name: " Un application en Kotlin, fitness tracker, avec un systeme de nft ca compte? Si c'est pas terminer!:§ ",
+      name: " An application in Kotlin, fitness tracker, with a nft system that counts? If it is not finished!: !: ",
       location: "Liege, Belgium",
       startDate: "June 2022",
       endDate: "Present",
       description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
+        "- Developing screens and UI components for the web application using KOTLIN ",
+        "- ",
       ],
     },
 
     {
       name: "",
       location: "",
-      startDate: "Nov 2020",
-      endDate: "Apr 2022",
+      startDate: " 20xx",
+      endDate: " 20xx",
       description: [
         "",
       ],
@@ -35,9 +35,9 @@ export const info = {
 
     {
       name: "",
-      location: "Pakistan",
-      startDate: "Oct 2020",
-      endDate: "Nov 2020",
+      location: "",
+      startDate: " ",
+      endDate: " ",
       description: [
         " ",
       ],
@@ -48,25 +48,25 @@ export const info = {
     {
       name: "",
       location: "",
-      startDate: "2019",
-      endDate: "2022",
+      startDate: "",
+      endDate: "",
       description: [
-        "Diploma of Associate Engineering,  Computer Information Technology (CIT)",
+        ,
       ],
     },
     {
       name: "",
       location: "",
-      startDate: "2018",
-      endDate: "2020",
-      description: ["Intermediate, Pre-Engineering"],
+      startDate: "",
+      endDate: "",
+      description: [""],
     },
     {
-      name: "Ghazi Foundation Schools & Colleges",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2016",
-      endDate: "2018",
-      description: ["Matriculation,  Computer Science"],
+      name: "s",
+      location: "",
+      startDate: "20",
+      endDate: "2",
+      description: [""],
     },
   ],
 
