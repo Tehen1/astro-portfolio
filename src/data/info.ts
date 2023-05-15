@@ -61,12 +61,14 @@ export const info = {
       location:  "Liege, Belgium", 
       startDate:  " 20xx",
       endDate:  " 20xx",
-      description: ["",
+      description: ["I never knew how to listen to teachers, sit behind a bench and listen.",
+      "I waited until I was 20 years old to leave school and pursue my apprenticeship in sales.",
+      "Then I started my early years in construction, painting, plastering, etc. .....","",
       ],
     },
   ],
 
-  education: [" I never knew how to listen to teachers, sit behind a bench and listen.",
+  education: ["I never knew how to listen to teachers, sit behind a bench and listen.",
               "I waited until I was 20 years old to leave school and pursue my apprenticeship in sales.",
               "Then I started my early years in construction, painting, plastering, etc. .....",
 
