@@ -27,13 +27,13 @@ export const info = {
       startDate: "June 2022",
       endDate: "Present",
       description: [
-        "Developing screens and UI components for the web application using KOTLIN ",
+        "Developing screens and UI components for the application",
         "Analyse des besoins et des objectifs",
         "Définir les caractéristiques de la collection NFT Cybxxxxxx",
         "Déterminer le public cible",
         "Évaluer les coûts associés",
         "Conception du design",
-        "Concevoir les modèles de CyborgCryptoPunk",
+        "Concevoir les modèles de Cyboxxxxxx",
        "Créer une identité visuelle pour la collection NFT Cybxxxxxxx",
        "Déterminer les couleurs et les textures pour les modèles",
        "Déterminer les caractéristiques des modèles",
@@ -60,15 +60,16 @@ export const info = {
       location:  "Liege, Belgium", 
       startDate:  " 20xx",
       endDate:  " 20xx",
-      description: [" I never knew how to listen to teachers, sit behind a bench and listen.",
-                  "I waited until I was 20 years old to leave school and pursue my apprenticeship in sales.",
-                  "Then I started my early years in construction, painting, plastering, etc. ....."
+      description: ["",
       ],
     },
   ],
 
-  education: [
-    {
+  education: [" I never knew how to listen to teachers, sit behind a bench and listen.",
+              "I waited until I was 20 years old to leave school and pursue my apprenticeship in sales.",
+              "Then I started my early years in construction, painting, plastering, etc. .....",
+
+    { 
       name: "",
       location: "",
       startDate: "",
