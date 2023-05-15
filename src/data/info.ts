@@ -2,16 +2,16 @@ export const info = {
   baseUrl: "https://13-37.netlify.app",
   name: "Lambi 'Tehen' Antony",
   jobDescription: "Web Developer",
-  about: `I am a junior developer, based in Liege, Belgium. I worked for ten years in the construction industry. I have two children too, Ex gamers.
-
-  I then took advantage of the covid break to spend a lot of time informing and training myself in a sector that is evolving at a crazy speed! 
-  I love creating things, whether it's websites, applications or anything else that is close to a computer. 
-  I've been training for more than 2 years, when I discovered crypto, dev teams on blockchain, 
-  trading, It's hard to manage to focus only on the code....  The first years anyway!  
-  Competent in front-end development. I have a "great" experience of a big year in HTML, CSS, JavaScript, Solidity
-  tailwind CSS, React JS, Next JS, and Kotlin. 
-  I've done several web projects from scratch, but I haven't finished the majority of them. However, 
-  I am always learning and never stop exploring new technologies
+  about:
+  `I am a junior developer, based in Liege, Belgium. I worked for ten years in the construction industry. I have two children too, Ex gamers.
+   I then took advantage of the covid break to spend a lot of time informing and training myself in a sector that is evolving at a crazy speed! 
+   I love creating things, whether it's websites, applications or anything else that is close to a computer. 
+   I've been training for more than 2 years, when I discovered crypto, dev teams on blockchain, 
+   trading, It's hard to manage to focus only on the code....  The first years anyway!  
+   Competent in front-end development. I have a "great" experience of a big year in HTML, CSS, JavaScript, Solidity
+   tailwind CSS, React JS, Next JS, and Kotlin. 
+   I've done several web projects from scratch, but I haven't finished the majority of them. However, 
+   I am always learning and never stop exploring new technologies
 
   I am currently looking for a job as a front-end developer or solidity & Kotlin. I am available immediately."
   `,
