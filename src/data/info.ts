@@ -9,33 +9,20 @@ export const info = {
   During the break from COVID, I took the opportunity to dive into extensive research and training in the rapidly evolving field of blockchain(s). My passion is designing innovative creations, whether they are dynamic websites, 
   cutting-edge applications or anything else that touches the vast field of computer science. For over two years, I have been dedicated to expanding my knowledge, venturing into the fields of crypto-currencies, blockchain development teams and even trading. 
   Initially, focusing solely on coding was a challenge in the early stages. 
-  However, I persevered. As a skilled front-end developer, I have substantial expertise in HTML, CSS, JavaScript, Solidity, Tailwind CSS, React JS, Next JS and Kotlin. Although I've started many web projects from scratch, I unfortunately haven't completed the majority of them. 
+  However, I persevered. As a skilled front-end developer, I have substantial expertise in HTML, CSS, JavaScript, Solidity, Tailwind CSS, React JS, and Kotlin. Although I've started many web projects from scratch, I unfortunately haven't completed the majority of them. 
   Nevertheless, my thirst for knowledge remains intact as I continually explore and adopt emerging technologies. 
   Currently, I am actively looking for job opportunities as a front-end or solidity & Kotlin developer. Rest assured that I am fully available to contribute my skills and expertise.",
   `,
 
   experience: [ "An application in Kotlin, fitness tracker, with a nft system that counts? If it is not finished!",
     {
-      name: "cybxxxxx",
+      name: "NONE",
       location: "Liege, Belgium",
       startDate: "June 2022",
       endDate: "Present",
       description: [
 
-        "Developing screens and UI components for the application",
-        "Analyse des besoins et des objectifs",
-        "Définir les caractéristiques de la collection NFT Cybxxxxxx",
-        "Déterminer le public cible",
-        "Évaluer les coûts associés",
-        "Conception du design",
-        "Concevoir les modèles de Cyboxxxxxx",
-       "Créer une identité visuelle pour la collection NFT Cybxxxxxxx",
-       "Déterminer les couleurs et les textures pour les modèles",
-       "Déterminer les caractéristiques des modèles",
-        "Programmer les contrats intelligents pour les NFT",
-       "Déployer les contrats intelligents sur la blockchain",
-       "Intégrer les modèles de CyborgCryptoPunk avec les contrats intelligents", 
-        "Test et lancement",
+   
       ],
     },
 
@@ -44,8 +31,8 @@ export const info = {
       location: "",
       startDate: " ",
       endDate: " ",
-      description: ["",
-                  ""
+      description: "",
+                  
         
       ],
     },
@@ -55,9 +42,7 @@ export const info = {
       location:  "Liege, Belgium", 
       startDate:  " 20xx",
       endDate:  " 20xx",
-      description: ["I never knew how to listen to teachers, sit behind a bench and listen.",
-      "I waited until I was 20 years old to leave school and pursue my apprenticeship in sales.",
-      "Then I started my early years in construction, painting, plastering, etc. .....","",
+      description: 
       ],
     },
   ],
@@ -80,14 +65,14 @@ export const info = {
       location: "",
       startDate: "",
       endDate: "",
-      description: [""],
+      description: ,
     },
     {
       name: "",
       location: "",
       startDate: "",
       endDate: "",
-      description: [""],
+      description: ,
     },
   ],
 
