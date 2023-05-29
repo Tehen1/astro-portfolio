@@ -69,7 +69,7 @@ export const info = {
       title: "Astro Portfolio",
       isFeatured: true,
       thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
+      githubUrl: "https://github.com/Tehen1",
       liveUrl: "https://13-37.netlify.app",
     },
   ],
