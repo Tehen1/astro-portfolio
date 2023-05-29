@@ -1,5 +1,5 @@
 export const info = {
-  baseUrl: "https://13-37.netlify.app",
+  baseUrl: "https://tehen1337.netlify.app",
   name: "Antony 'Tehen' Lambi",
   jobDescription: "Web Developer",
   about:
@@ -67,6 +67,6 @@ export const info = {
       isFeatured: true,
       thumbnail: "/assets/images/astro-portfolio.png",
       githubUrl: "https://github.com/Tehen1",
-      liveUrl: "https://13-37.netlify.app",
+      liveUrl: "https://tehen1337.netlify.app",
     },
   ]};

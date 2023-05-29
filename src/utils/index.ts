@@ -1,4 +1,4 @@
-const createLogo = (name) =>
+const createLogo = (name) =>  // name = "Antony Lambi"
   name
     .split(" ")
     .map((word) => word[0])
