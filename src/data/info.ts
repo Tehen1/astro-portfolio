@@ -3,15 +3,14 @@ export const info = {
   name: "Antony 'Tehen' Lambi",
   jobDescription: "Web Developer",
   about:
-  `I am an aspiring developer based in Liege, Belgium. For the past ten years I have been honing my skills in the construction industry. 
-  In addition, I am the proud parent of two enthusiastic children. 
+  `I'm a budding developer based in Liège, Belgium. Over the last ten years, I've honed my skills in the construction industry. 
+  I'm also the proud parent of two children. 
   Former geek on too many online games. 
-  During the break from COVID, I took the opportunity to dive into extensive research and training in the rapidly evolving field of blockchain(s). My passion is designing innovative creations, whether they are dynamic websites, 
-  cutting-edge applications or anything else that touches the vast field of computer science. For over two years, I have been dedicated to expanding my knowledge, venturing into the fields of crypto-currencies, blockchain development teams and even trading. 
+  During the COVID break, I took the opportunity to immerse myself in in-depth research and training in the fast-evolving field of blockchain(s). My passion is designing innovative creations, be they dynamic websites, cutting-edge applications or anything else that touches on the vast field of computer science. For over two years now, I've been expanding my knowledge, venturing into the fields of crypto-currencies, blockchain development teams and even trading. 
   Initially, focusing solely on coding was a challenge in the early stages. 
-  However, I persevered. As a skilled front-end developer, I have substantial expertise in HTML, CSS, JavaScript, Solidity, Tailwind CSS, React JS, and Kotlin. Although I've started many web projects from scratch, I unfortunately haven't completed the majority of them. 
+  However, I persevered. As a skilled front-end developer, I have substantial expertise in HTML, CSS, JavaScript, Solidity, Tailwind CSS, React JS and Kotlin. Although I've started many web projects from scratch, unfortunately I haven't completed the majority of them. 
   Nevertheless, my thirst for knowledge remains intact as I continually explore and adopt emerging technologies. 
-  Currently, I am actively looking for job opportunities as a front-end or solidity & Kotlin developer. Rest assured that I am fully available to contribute my skills and expertise.",
+  Currently, I'm actively seeking employment opportunities as a front-end or solidity & Kotlin developer. Rest assured that I am fully available to contribute my skills and expertise.",
   `,
 
   experience: [ "An application in Kotlin, fitness tracker, with a nft system that counts? If it is not finished!",
@@ -37,32 +36,30 @@ export const info = {
       location:  "Liege, Belgium", 
       startDate:  " 20xx",
       endDate:  " 20xx",
-      description: 
-      
+      description
     },
-  ],
+  
+    
+    ],
 
   education: ["I never knew how to listen to teachers, sit behind a bench and listen.",
               "I waited until I was 20 years old to leave school and pursue my apprenticeship in sales.",
-              "Then I started my early years in construction, painting, plastering, etc. .....",
-
-    { 
+              "Then I started my early years in construction, painting, plastering, etc. ....."],
+                
       name: "",
       location: "",
       startDate: "",
       endDate: "",
-      description: [
-        ,
-      ],
-    },
+      description: [],
+    };
     {
       socialMedia: {
-    facebook: "https://www.facebook.com/antolambi88",
-    twitter: "https://twitter.com/AntoTehen",
-    github: "https://github.com/Tehen1",
-    email: "Tehen.antony@protonmail.com",
-    linkedin: "https://www.linkedin.com/in",
-  },
+    facebook: "https://www.facebook.com/antolambi88";
+    twitter: "https://twitter.com/AntoTehen";
+    github: "https://github.com/Tehen1";
+    email: "Tehen.antony@protonmail.com";
+    linkedin: "https://www.linkedin.com/in";
+  };
 
   projects: [
     {
@@ -72,6 +69,4 @@ export const info = {
       githubUrl: "https://github.com/Tehen1",
       liveUrl: "https://13-37.netlify.app",
     },
-  ],
-};
-
+  ]};
