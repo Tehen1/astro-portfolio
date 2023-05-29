@@ -19,7 +19,7 @@ export const info = {
       location: "Liege, Belgium",
       startDate: "June 2022",
       endDate: "Present",
-      description: [],
+      description: "",
     },
 
     {
@@ -36,7 +36,7 @@ export const info = {
       location:  "Liege, Belgium", 
       startDate:  " 20xx",
       endDate:  " 20xx",
-      description
+      description: "",
     },
   
     
@@ -50,7 +50,7 @@ export const info = {
       location: "",
       startDate: "",
       endDate: "",
-      description: [],
+      description: "",
     };
     {
       socialMedia: {
